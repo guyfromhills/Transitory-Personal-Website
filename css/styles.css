@@ -1,0 +1,152 @@
+
+body{
+
+    margin:0px;
+    text-align: center; 
+    font-family: 'Merriweather', serif;
+
+
+}
+
+h1{
+    margin-top: 0px;
+    font-size: 70px;
+    position: relative;
+    top:150px;      
+    font-family: 'Sacramento', cursive;
+
+
+}
+
+h2{
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.cloud1{
+    position: absolute;
+    right: 350px;
+    top:150px;
+    
+}
+
+.cloud2{
+    position: absolute;
+    left: 400px;
+    top:400px;
+}
+.hill{
+    position: relative;
+    top: 250px;
+}
+
+.top-container{
+    
+    background-color: #f1f6f9;
+    height: 900px;
+    position: relative;
+    padding-top: 100px;
+    
+  
+}
+.middlecontainer{
+   
+
+}
+
+.bottomcontainer{
+    
+
+
+}
+.asteroid-attack-pic{
+    height:400px;
+    width: 500px;
+    
+}
+.reach-green-pic{
+    height:400px;
+    width: 500px;
+
+}
+
+.profile{
+   
+    height:800px;
+    padding-top: 100px;
+}
+.about-me-pic{
+    border-radius: 100%;
+    height:450px;
+    width:30%;
+}
+.profile-h2{
+    position: relative;
+    top:100px;
+}
+
+.projects{
+    position:relative;
+    
+    height: 600px;
+}
+
+.projects-column-1{
+    position: absolute;
+    bottom:100px;
+    left: 400px;
+
+}
+
+.projects-column-2{
+    position: absolute;
+    bottom:100px;
+    right: 400px;
+
+}
+
+.games{
+    position: relative;
+   
+    height:600px;
+    padding-top: 100px;
+}
+
+.games-column-1{
+    position: absolute;
+    bottom:100px;
+    left:400px;
+}
+
+.games-column-2{
+    position: absolute;
+    bottom:100px;
+    right:400px;
+}
+
+.footer-link-instagram{
+    display:inline-block;
+}
+.footer-link{
+    display:inline-block;
+}
+.footer-link{
+    display:block;
+}
+
+.footer-link-twitter{
+    height: 20px;
+}
+.footer-link-instagram{
+    
+    height: 20px;
+}
+.footer-link-youtube{
+    height: 20px;
+}
+
+
